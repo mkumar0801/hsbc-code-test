@@ -1,0 +1,6 @@
+# VisualStudioCode
+.vscode/settings.json
+
+# Byte-compiled 
+__pycache__/
+
