@@ -19,7 +19,7 @@ def get_results(letter: str):
             if city_name.startswith(letter) or city_name.startswith(letter.upper()):
                 count += 1
                 cities.append(city_name)
-            all_cities = ', '.join(cities) + '.'
+        all_cities = ', '.join(cities) + '.'
         if count == 0:
             all_cities = f"No city found with the letter '{letter}'."
     else:
