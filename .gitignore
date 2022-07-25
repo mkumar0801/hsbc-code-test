@@ -3,12 +3,9 @@
 
 # Byte-compiled 
 __pycache__/
-# f1
-# f2
-# hf1
-# hf2
-# hf3
-# hf4
 /lib
 /include
 /bin
+
+#f1
+#f2
