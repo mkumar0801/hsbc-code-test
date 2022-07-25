@@ -9,3 +9,6 @@ __pycache__/
 # hf2
 # hf3
 # hf4
+/lib
+/include
+/bin
